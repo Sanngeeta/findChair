@@ -28,4 +28,4 @@ function findSpareChairs(meetingRooms, need) {
   let meetingRoom = [["XXX", 3],["XXXXX", 6],["XXXXXX", 9],["XXX", 2]];
   let needs = 4;
   console.log(findSpareChairs(meetingRoom, needs));
-  
+  // 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
